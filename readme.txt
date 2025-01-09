@@ -1,0 +1,1 @@
+Custom Gallery File Structures
